@@ -1,4 +1,8 @@
 h1{
     color:red;
-    font-size:20px 
+    font-size:20px;
+}
+p{
+    color:blac;
+    font-size:15px;
 }
