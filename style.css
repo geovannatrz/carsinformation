@@ -2,7 +2,11 @@ h1{
     color:rgb(172, 11, 11);
     font-size:20px;
 }
-p{
+h2{
     color:rgb(10, 10, 133);
     font: size 15px;
+}
+p{
+    color:black rgb(17,16,16);
+    font:size 28px
 }
